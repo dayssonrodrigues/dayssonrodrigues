@@ -3,7 +3,7 @@
 https://raqdevs.com/
 
 - Minerador de Dados Web
-- PHP Expert
+- Entusiasta PHP
 - Entusiasta Front End
 
   ##
